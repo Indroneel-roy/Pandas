@@ -11,3 +11,4 @@ if __name__ == "__main__":
     df2 = pd.DataFrame(data2)
     concatenated_df = concatenateTables(df1, df2)
     print(concatenated_df)
+    print(data1)
